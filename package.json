@@ -1,0 +1,15 @@
+{
+  "name": "soul-filesrv",
+  "version": "0.0.2",
+  "author": "Maxim Savin <soulman.is.good@gmail.com>",
+  "dependencies": {
+    "mysql": "~2.0.0-rc1",
+    "formidable": "~1.0.14",
+    "imagemagick": "~0.1.3",
+    "mime": "~1.2.11",
+    "mmmagic": "~0.3.5",
+    "tedious": "~0.1.5",
+    "connect": "~2.11.2"
+  },
+  "devDependencies": {}
+}
